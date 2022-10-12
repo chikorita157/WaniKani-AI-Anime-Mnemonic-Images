@@ -1,6 +1,8 @@
 # WaniKani AI Anime Mnemonic Images Project
 This repo contains images of Kanji and radicals that users can generate in anime form with anime girls mostly, either though [NovelAi](https://novelai.net) and [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion).
 
+The aim of this project is to bring WaniKani Mnemoics, primarily for meanings to life in Anime form with the power of AI.
+
 To contribute, fork this repo, add images in the following format (kanji-(actualkanji).png/jpg/jpeg) and commit the repo. Then create a PR. Also, feel free to create a Greesemonkey script to make these images available for WaniKani reviews.
 
 If you don't know how these images are made, watch this video about AI image generation by [MKDHD](https://www.youtube.com/watch?v=yCBEumeXY4A)
